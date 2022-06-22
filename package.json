@@ -1,0 +1,15 @@
+{
+  "name": "apigateway-sdk-nodejs",
+  "version": "1.0.0",
+  "description": "apigateway-sdk-nodejs for calling APIs Through App Authentication",
+  "repository": "https://github.com/sber-platformv/apigateway-sdk-nodejs.git",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src/**/*.js"
+  ],
+  "author": "SberTech",
+  "license": "MIT License"
+}
